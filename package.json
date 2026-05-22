@@ -1,0 +1,16 @@
+{
+  "name": "githubactions-pipeline",
+  "version": "1.0.0",
+  "description": "this is a pipeline of node application through github actions",
+  "keywords": [],
+  "license": "ISC",
+  "author": "divya thakur",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start" : "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
