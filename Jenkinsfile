@@ -10,7 +10,7 @@ pipeline {
 
         stage('Clone Code') {
             steps {
-                git 'https://github.com/Divyathakur273/jenkins-project.git'
+                git 'https://github.com/Divyathakur273/GitHub-pipeline-4MO58.git'
             }
         }
 
